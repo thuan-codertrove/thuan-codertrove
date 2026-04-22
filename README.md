@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Welcome to my GitHub profile!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuan-codertrove/thuan-codertrove/output/github-snake-dark.svg" />
