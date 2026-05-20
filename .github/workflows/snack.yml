@@ -22,7 +22,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
